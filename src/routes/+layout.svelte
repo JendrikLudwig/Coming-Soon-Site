@@ -118,7 +118,7 @@
         <p>Wir sind aber bald mit den besten Deals für dich da! </p>
     </main>
     <footer>
-        <p>Copyright <span class="t_gr">©</span> 2024 cashbackplanet.de. All rights reserved.</p>
+        <p>Copyright <span class="t_gr">©</span> 2024 Jendrik Ludwig.</p>
         <div>
             <a href="">Impressum</a>
         </div>
